@@ -1,0 +1,27 @@
+info:  Game: CrazyPig.exe
+info:  DXVK: v1.6.1
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+warn:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+warn:  D3D9: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+info:  AMD RADV POLARIS10 (LLVM 9.0.1):
+info:    Driver: 20.0.4
+info:    Vulkan: 1.2.128
+info:    Memory Heap[0]: 
+info:      Size: 7936 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[2]: Property Flags = 0x7
+info:    Memory Heap[2]: 
+info:      Size: 32052 MiB
+info:      Flags: 0x0
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:  Process set as DPI aware
